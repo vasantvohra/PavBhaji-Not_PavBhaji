@@ -22,7 +22,7 @@ Your deliverables are:
 - Explain why you choose particular Model
 - What are the challenges you faced while working on the data?
 - How did you overcome those and what approach you try to solve the problem?
-And mail it us at connectatdrivebuddyaidotcom
+And mail it us at connect<at>drivebuddyai<dot>com
 
 ## Evaluation
 - We will evaluate you based on
