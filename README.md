@@ -30,5 +30,5 @@ And mail it us at connectatdrivebuddyaidotcom
   - Your Problem Solving approach
   - Time Taken to Solve the Problem
   
-## Follow us on Twitter and Post your results on Twitter and Tag us @drivebuddyAI
+## Follow us on Twitter and Tag us @drivebuddyAI if you have completed the challenge and we'll call you for a coffee.
 
