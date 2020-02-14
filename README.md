@@ -5,7 +5,7 @@ Your Goal is to predict the genuiness of image of Pavbhaji(an Indian food item) 
 ## GIVEN :
 Instagram posts data for #pavbhaji
 
-----Dir --- dataset(1500)
+----Dir --- dataset
                 |----- images (Segregated images in "0" & "1")
                 |----- Json file
 
